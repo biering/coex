@@ -1,4 +1,4 @@
-![Coex][./Assets/title-image.png]
+![Coex](./Assets/title-image.png "Coex")
 
 # Coex
 
