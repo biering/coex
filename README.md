@@ -1,4 +1,4 @@
-![Coex](./Assets/title-image.png "Coex")
+![Coex](./Assets/title-image.png | width=449)
 
 # Coex
 
