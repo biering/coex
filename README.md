@@ -1,3 +1,5 @@
+![Coex][./Assets/title-image.png]
+
 # Coex
 
 > Coex comes from Coexistence and is a lightweight Swift library & syntactic sugar for async (GCD) operations
