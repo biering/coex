@@ -1,9 +1,7 @@
-<center>
 <img src="./Assets/title-image.png" data-canonical-src="./Assets/title-image.png" width="250px" height="100px" />
 <br>
 Coex comes from Coexistence and is a lightweight Swift library & syntactic sugar for async (GCD) operations.<br>
 Made with ♥ in pure Swift 5.x, no dependencies, simple & fully portable.
-</center>
 
 ## Usage
 
