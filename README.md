@@ -1,6 +1,6 @@
 # Coex
 
-> A lightweight Swift library & syntactic sugar for async (GCD) operations
+> Coex comes from Coexistence and is a lightweight Swift library & syntactic sugar for async (GCD) operations
 
 ## Usage
 
