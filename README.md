@@ -2,8 +2,6 @@
 
 > A lightweight Swift library & syntactic sugar for async (GCD) operations
 
----
-
 ## Usage
 
 You can also use `Coex.async(...)` instead of `async(...)`.
