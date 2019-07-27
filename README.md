@@ -42,6 +42,12 @@ Executing a block of code after a specific time (in seconds). _Default is `nil`.
 
 ### Swift Package Manager
 
+Add the following as a dependency to your `Package.swift`:
+
+```
+.package(url: "https://github.com/chryb/coex.git", .exact("1.0.0"))
+```
+
 ### Carthage
 
 Insert the following into your `Cartfile`:
@@ -51,6 +57,13 @@ github 'chryb/coex'
 ```
 
 ### Cocoapods
+
+Add the following to your `Podspec`:
+
+```
+use_frameworks!
+pod "Coex"
+```
 
 ---
 
