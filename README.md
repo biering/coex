@@ -19,9 +19,9 @@ Running a block of code in a specific DispatchQueue. _Default is `.main`._
 
 ||BECOMES|
 |:--|:--|
-|`DispatchQueue`<br>`.<queue>`<br>`.async { ... }` | `async(.<queue>) { ... }` |
-|`DispatchQueue`<br>`.main`<br>`.async { ... }` | `async(.main) { ... }` <br> .main is default: `async { ... }`|
-| `DispatchQueue`<br>`.global(qos: .background)`<br>`.async { ... }` | `async(.main, after: 3.0) { ... }` |
+|`DispatchQueue`<br>`.<queue>.async { ... }` | `async(.<queue>) { ... }` |
+|`DispatchQueue`<br>`.main.async { ... }` | `async(.main) { ... }` <br> .main is default: `async { ... }`|
+| `DispatchQueue.global(qos: .background)`<br>`.async { ... }` | `async(.main, after: 3.0) { ... }` |
 
 ### Async After
 
