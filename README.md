@@ -52,7 +52,7 @@ Add the following as a dependency to your `Package.swift`:
 Insert the following into your `Cartfile`:
 
 ```
-github 'chryb/coex'
+github "chryb/coex" == 1.0.0
 ```
 
 ### Cocoapods
